@@ -4,6 +4,7 @@ GLube, a WebGL Rubik's Cube
 ## Forked
 
 This is a low maintenance fork of https://github.com/blonkm/rubiks-cube
+
 I have merely wrapped it in some browserify / babel. I mostly wanted to be able to import GLube as an npm module and to increase its configurability for a [project I am working on](https://github.com/nathanKramer/cube-algs)
 
 ## GLube History
